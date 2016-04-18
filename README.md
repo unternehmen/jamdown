@@ -25,4 +25,4 @@ of which should have come with this package.
 To the extent possible under law, I waive all copyright
 and related or neighboring rights to jamdown.  I make no
 warranty about the work and disclaim liability for all uses
-of the work, to the extend possible under law.
+of the work, to the extent possible under law.
